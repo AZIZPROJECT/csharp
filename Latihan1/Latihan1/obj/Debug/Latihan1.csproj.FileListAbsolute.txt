@@ -1,0 +1,8 @@
+D:\PROJECT\CSHARP\csharp\Latihan1\Latihan1\bin\Debug\Latihan1.exe.config
+D:\PROJECT\CSHARP\csharp\Latihan1\Latihan1\bin\Debug\Latihan1.exe
+D:\PROJECT\CSHARP\csharp\Latihan1\Latihan1\bin\Debug\Latihan1.pdb
+D:\PROJECT\CSHARP\csharp\Latihan1\Latihan1\obj\Debug\Latihan1.csprojResolveAssemblyReference.cache
+D:\PROJECT\CSHARP\csharp\Latihan1\Latihan1\obj\Debug\Latihan1.MainForm.resources
+D:\PROJECT\CSHARP\csharp\Latihan1\Latihan1\obj\Debug\Latihan1.csproj.GenerateResource.Cache
+D:\PROJECT\CSHARP\csharp\Latihan1\Latihan1\obj\Debug\Latihan1.exe
+D:\PROJECT\CSHARP\csharp\Latihan1\Latihan1\obj\Debug\Latihan1.pdb
